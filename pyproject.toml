@@ -27,9 +27,9 @@ classifiers = [
 dependencies = []
 
 [project.urls]
-Documentation = "https://github.com/unknown/email-clients#readme"
-Issues = "https://github.com/unknown/email-clients/issues"
-Source = "https://github.com/unknown/email-clients"
+Documentation = "https://github.com/StrajnarFilip/email-clients/blob/master/README.md"
+Issues = "https://github.com/StrajnarFilip/email-clients"
+Source = "https://github.com/StrajnarFilip/email-clients"
 
 [tool.hatch.version]
 path = "src/email_clients/__about__.py"
